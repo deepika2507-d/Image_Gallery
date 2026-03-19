@@ -190,24 +190,23 @@ IMAGE.HTML
 ```
 
 ## OUTPUT
+<img width="1920" height="1200" alt="Screenshot (724)" src="https://github.com/user-attachments/assets/d3f82df1-49ba-4d12-9204-699fab07be76" />
 
-![alt text](<Screenshot (724).png>)
+<img width="1920" height="1200" alt="Screenshot (723)" src="https://github.com/user-attachments/assets/115228fb-08cb-4238-ab3c-1d4854ab4478" />
 
-![alt text](<Screenshot (716).png>) 
+<img width="1920" height="1200" alt="Screenshot (722)" src="https://github.com/user-attachments/assets/b84d4a5b-3d82-4744-92b0-43648d569c94" />
 
-![alt text](<Screenshot (717).png>) 
+<img width="1920" height="1200" alt="Screenshot (721)" src="https://github.com/user-attachments/assets/2c7abb32-eaf2-4a0d-9b28-60a7d117d76c" />
 
-![alt text](<Screenshot (718).png>) 
+<img width="1920" height="1200" alt="Screenshot (720)" src="https://github.com/user-attachments/assets/829d4b03-95a2-4b10-a6bf-a0158c9cc402" />
 
-![alt text](<Screenshot (719).png>) 
+<img width="1920" height="1200" alt="Screenshot (719)" src="https://github.com/user-attachments/assets/3d875473-f56f-47c9-80dc-07eaf20d618c" />
 
-![alt text](<Screenshot (720).png>) 
+<img width="1920" height="1200" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/222ca74c-3232-4ff2-a149-31146824e25f" />
 
-![alt text](<Screenshot (721).png>) 
+<img width="1920" height="1200" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/4ee2235d-0f01-4510-9a7d-4fdc176d15a4" />
 
-![alt text](<Screenshot (723).png>) 
-
-![alt text](<Screenshot (722).png>)
+<img width="1920" height="1200" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/5fadde60-2dd3-41d6-84f7-54fc7e4c4404" />
 
 
 ## RESULT
