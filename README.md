@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/5990847e-ee4e-40bb-a62f-6112755eae4a" /># Ex.07 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 
 ## AIM
   To design a web application for an inteactive image gallery with minimum five images.
